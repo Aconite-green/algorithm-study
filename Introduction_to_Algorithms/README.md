@@ -16,62 +16,62 @@
   <p>03-2 linear search</p>
   <p>03-3 binary search</p>
   
-  </td></tr><tr id="ac9d851d-9084-45d9-8411-d6f4f4ff8b9e"><td class="cell-title"><a href="https://www.notion.so/4-ac9d851d908445d98411d6f4f4ff8b9e">4</a></td><td class="cell-hZPV">검색 알고리즘(2/2)</td><td class="cell-N<L_">03-4 해시범</td></tr><tr id="36a9a9ec-4da7-4777-9311-2e001e988f1f"><td class="cell-title"><a href="https://www.notion.so/5-36a9a9ec4da7477793112e001e988f1f">5</a></td><td class="cell-hZPV">스택과 큐(1/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="ac9d851d-9084-45d9-8411-d6f4f4ff8b9e"><td class="cell-title"><a href="https://www.notion.so/4-ac9d851d908445d98411d6f4f4ff8b9e">4</a></td><td class="cell-hZPV">search algorithm(2/2)</td><td class="cell-N<L_">03-4 hash method</td></tr><tr id="36a9a9ec-4da7-4777-9311-2e001e988f1f"><td class="cell-title"><a href="https://www.notion.so/5-36a9a9ec4da7477793112e001e988f1f">5</a></td><td class="cell-hZPV">stack and queue(1/2)</td><td class="cell-N<L_">
   
-  <p>04-1 스택이란?</p>
+  <p>04-1 What is a stack?</p>
   
-  </td></tr><tr id="69253db6-fece-43b3-8fe0-5259a2bea1fe"><td class="cell-title"><a href="https://www.notion.so/6-69253db6fece43b38fe05259a2bea1fe">6</a></td><td class="cell-hZPV">스택과 큐(2/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="69253db6-fece-43b3-8fe0-5259a2bea1fe"><td class="cell-title"><a href="https://www.notion.so/6-69253db6fece43b38fe05259a2bea1fe">6</a></td><td class="cell-hZPV">stack and queue(2/2)</td><td class="cell-N<L_">
   
-  <p>04-2 큐란?</p>
+  <p>04-2 What is a queue?</p>
   
-  </td></tr><tr id="f94577e4-c46a-4abb-aff4-b060cfa172d0"><td class="cell-title"><a href="https://www.notion.so/7-f94577e4c46a4abbaff4b060cfa172d0">7</a></td><td class="cell-hZPV">재귀 알고리즘(1/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="f94577e4-c46a-4abb-aff4-b060cfa172d0"><td class="cell-title"><a href="https://www.notion.so/7-f94577e4c46a4abbaff4b060cfa172d0">7</a></td><td class="cell-hZPV">recursive algorithm(1/2)</td><td class="cell-N<L_">
   
-  <p>05-1 재귀 알고리즘의 기본</p>
-  <p>05-2 재귀 알고리즘 분석</p>
+  <p>05-1 Fundamentals of recursive algorithms</p>
+  <p>05-2 Recursive Algorithm Analysis</p>
   
-  </td></tr><tr id="39cfd091-8fca-49e9-aca8-af822cf1f0b6"><td class="cell-title"><a href="https://www.notion.so/8-39cfd0918fca49e9aca8af822cf1f0b6">8</a></td><td class="cell-hZPV">재귀 알고리즘(2/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="39cfd091-8fca-49e9-aca8-af822cf1f0b6"><td class="cell-title"><a href="https://www.notion.so/8-39cfd0918fca49e9aca8af822cf1f0b6">8</a></td><td class="cell-hZPV">recursive algorithm(2/2)</td><td class="cell-N<L_">
   
-  <p>05-3 하노이의 탑</p>
-  <p>05-4 8퀸 문제란?</p>
+  <p>05-3 tower of hanoi</p>
+  <p>05-4 What is the 8-Queen Problem?</p>
   
-  </td></tr><tr id="e921a1b5-b475-4ff6-bd94-123679930467"><td class="cell-title"><a href="https://www.notion.so/9-e921a1b5b4754ff6bd94123679930467">9</a></td><td class="cell-hZPV">정렬 알고리즘(1/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="e921a1b5-b475-4ff6-bd94-123679930467"><td class="cell-title"><a href="https://www.notion.so/9-e921a1b5b4754ff6bd94123679930467">9</a></td><td class="cell-hZPV">sort algorithm(1/2)</td><td class="cell-N<L_">
   
-  <p>06-1 정렬 알고리즘</p>
-  <p>06-2 버블 정렬</p>
-  <p>06-3 단순 선택 정렬</p>
-  <p>06-4 단순 삽입 정렬</p>
+  <p>06-1 sort algorithm</p>
+  <p>06-2 bubble sort</p>
+  <p>06-3 simple selection sort</p>
+  <p>06-4 simple insertion sort</p>
   
-  </td></tr><tr id="972e063a-f960-4339-bf9e-e07754b58536"><td class="cell-title"><a href="https://www.notion.so/10-972e063af9604339bf9ee07754b58536">10</a></td><td class="cell-hZPV">정렬 알고리즘(2/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="972e063a-f960-4339-bf9e-e07754b58536"><td class="cell-title"><a href="https://www.notion.so/10-972e063af9604339bf9ee07754b58536">10</a></td><td class="cell-hZPV">sort algorithm(2/2)</td><td class="cell-N<L_">
   
-  <p>06-5 셀 정렬</p>
-  <p>06-6 퀵 정렬</p>
-  <p>06-7 병합 정렬</p>
-  <p>06-8 힙 정렬</p>
-  <p>06-9 도수 정렬</p>
+  <p>06-5 sort cells</p>
+  <p>06-6 quick sort</p>
+  <p>06-7 merge sort</p>
+  <p>06-8 heap sort</p>
+  <p>06-9 frequency sort</p>
   
-  </td></tr><tr id="4e1c9d63-afb3-49ba-b1e2-3cec24b99956"><td class="cell-title"><a href="https://www.notion.so/11-4e1c9d63afb349bab1e23cec24b99956">11</a></td><td class="cell-hZPV">문자열 검색</td><td class="cell-N<L_">
+  </td></tr><tr id="4e1c9d63-afb3-49ba-b1e2-3cec24b99956"><td class="cell-title"><a href="https://www.notion.so/11-4e1c9d63afb349bab1e23cec24b99956">11</a></td><td class="cell-hZPV">string search</td><td class="cell-N<L_">
   
-  <p>07-1 브루트 포스법</p>
-  <p>07-2 KMP법</p>
-  <p>07-3 보이어 - 무어법</p>
+  <p>07-1 brute force method</p>
+  <p>07-2 KMP method</p>
+  <p>07-3 Boyer - Moorish</p>
   
-  </td></tr><tr id="c8e1eba1-ccd9-4737-833f-a42950f7a715"><td class="cell-title"><a href="https://www.notion.so/12-c8e1eba1ccd94737833fa42950f7a715">12</a></td><td class="cell-hZPV">리스트(1/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="c8e1eba1-ccd9-4737-833f-a42950f7a715"><td class="cell-title"><a href="https://www.notion.so/12-c8e1eba1ccd94737833fa42950f7a715">12</a></td><td class="cell-hZPV">List(1/2)</td><td class="cell-N<L_">
   
-  <p>08-1 연결 리스트</p>
-  <p>08-2 포인터로 이용한 연결 리스트</p>
+  <p>08-1 linked list</p>
+  <p>08-2 linked list using pointers</p>
   
-  </td></tr><tr id="cd71a481-e398-4d80-b8e7-6170215f7fed"><td class="cell-title"><a href="https://www.notion.so/13-cd71a481e3984d80b8e76170215f7fed">13</a></td><td class="cell-hZPV">리스트(2/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="cd71a481-e398-4d80-b8e7-6170215f7fed"><td class="cell-title"><a href="https://www.notion.so/13-cd71a481e3984d80b8e76170215f7fed">13</a></td><td class="cell-hZPV">List(2/2)</td><td class="cell-N<L_">
   
-  <p>08-3 커서로 이용한 연결 리스트</p>
-  <p>08-4 원형 이중 연결 리스트</p>
+  <p>08-3 Linked list using cursor</p>
+  <p>08-4 circular doubly linked list</p>
   
-  </td></tr><tr id="ec01c832-3075-48e5-b50c-3d9c6fc2b90c"><td class="cell-title"><a href="https://www.notion.so/14-ec01c832307548e5b50c3d9c6fc2b90c">14</a></td><td class="cell-hZPV">트리(1/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="ec01c832-3075-48e5-b50c-3d9c6fc2b90c"><td class="cell-title"><a href="https://www.notion.so/14-ec01c832307548e5b50c3d9c6fc2b90c">14</a></td><td class="cell-hZPV">tree(1/2)</td><td class="cell-N<L_">
   
-  <p>09-1 트리 구조</p>
-  <p>09-2 이진 트리와 이진 검색 트리(1/2)</p>
+  <p>09-1 tree structure</p>
+  <p>09-2 Binary Trees and Binary Search Trees(1/2)</p>
   
-  </td></tr><tr id="75e0e397-dbfc-497f-af29-461458b8bbf7"><td class="cell-title"><a href="https://www.notion.so/15-75e0e397dbfc497faf29461458b8bbf7">15</a></td><td class="cell-hZPV">트리(2/2)</td><td class="cell-N<L_">
+  </td></tr><tr id="75e0e397-dbfc-497f-af29-461458b8bbf7"><td class="cell-title"><a href="https://www.notion.so/15-75e0e397dbfc497faf29461458b8bbf7">15</a></td><td class="cell-hZPV">tree(2/2)</td><td class="cell-N<L_">
   
-  <p>09-2 이진 트리와 이진 검색 트리(2/2)</p>
+  <p>09-2 Binary Trees and Binary Search Trees(2/2)</p>
   
-  </td></tr><tr id="8bf8017a-78a8-411f-8960-59b3fe1fa008"><td class="cell-title"><a href="https://www.notion.so/16-8bf8017a78a8411f896059b3fe1fa008">16</a></td><td class="cell-hZPV">보충 수업</td><td class="cell-N<L_"></td></tr></tbody></table></div></article></body></html>
+  </td></tr><tr id="8bf8017a-78a8-411f-8960-59b3fe1fa008"><td class="cell-title"><a href="https://www.notion.so/16-8bf8017a78a8411f896059b3fe1fa008">16</a></td><td class="cell-hZPV">supplementary lessons</td><td class="cell-N<L_"></td></tr></tbody></table></div></article></body></html>
