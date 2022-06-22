@@ -1,6 +1,6 @@
 counter = 0
 
-for n in range(2, 50):
+for n in range(2, 20):
     for i in range(2, n):
         counter += 1
         if n % i ==0:
