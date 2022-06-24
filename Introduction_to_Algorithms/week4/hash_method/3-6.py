@@ -27,4 +27,21 @@ while True:
             print('fail to add')
 
     elif menu == Menu.remove:
-        
+        key = int(input('put key you want to remove: '))
+        if not hash.remove(key):
+            print('fail to remove')
+
+    
+    elif menu == Menu.search:
+        key = int(input('put key you want to search: '))
+        t = hash.search(key)
+        if t is not None:
+            print(f'the value {t} is the one you want to find')
+        else:
+            print('no data')
+
+    elif menu == Menu.dump:
+        hash.dump()
+
+    else:
+        break
