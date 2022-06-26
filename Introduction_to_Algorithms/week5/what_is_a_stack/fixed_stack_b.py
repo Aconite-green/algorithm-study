@@ -1,6 +1,5 @@
 from fixed_stack_a import FixedStack
 from typing import Any
-#need addtional commit
 
 def push(self, value: Any) -> None:
     if self.is_full():
