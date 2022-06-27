@@ -56,5 +56,6 @@ while True:
         break
         
 
-
+# The deque module allows a simple implementation of the stack.
+# collection.deque is a container that implements a deck, a data structure that adds/remove elements from both the front and the end.
     
