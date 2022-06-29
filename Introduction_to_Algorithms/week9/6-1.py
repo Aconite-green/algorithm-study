@@ -15,7 +15,7 @@ if __name__ == '__main__':
     for i in range(num):
         x[i] = int(input(f'x[{i}]: '))
 
-    bubble_sort(X)
+    bubble_sort(x)
 
     print('sorted in acending order ')
     for i in range(num):
