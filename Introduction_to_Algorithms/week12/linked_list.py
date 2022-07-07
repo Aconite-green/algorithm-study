@@ -134,4 +134,4 @@ class LinkedListIterator:
         else:
             data = self.current.data
             self.current = self.current.next
-            return data            
+            return data       
