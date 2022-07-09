@@ -1,5 +1,5 @@
 from typing import MutableSequence
-
+# oh yest
 def bubble_sort(a: MutableSequence) -> None:
     n = len(a)
     for i in range(n-1):
